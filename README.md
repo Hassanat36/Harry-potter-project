@@ -9,14 +9,14 @@
 - [Analysis and Insights](#analysis-and-insights)
 - [Conclusion](#conclusion)
 - [Limitations](#limitations)
+- [ MIT License](#mit-license)
 
 
-![parentalleaves image](https://github.com/Hassanat36/Maven_powerbi_project/assets/138366531/9283bb74-af13-43fb-a028-8ebccd34fd77)
 
 
 ## Introduction
 
-My journey into the world of parental leave policies, driven by data and brought to life with Power BI Desktop, has unveiled critical findings that illuminate the current landscape. Drawing from a comprehensive survey of 1,601 companies spanning 186 industries, I've transformed this data into a captivating visual narrative.
+Welcome to the Harry Potter Movie Series Analysis! This project delves into the enchanting world of the beloved Harry Potter film saga, aiming to uncover insights, trends, and interesting facts about this iconic cinematic journey. The Harry Potter movie series, adapted from the equally beloved book series by J.K. Rowling, has captured the hearts of millions worldwide. This analysis is not just about rekindling the magic of the films but also about using data-driven approaches to explore various aspects of the series. From character appearances to box office performance, our journey aims to bring a fresh perspective to the wizarding world.
 
 
 ## Skills Demonstrated
@@ -27,7 +27,7 @@ My journey into the world of parental leave policies, driven by data and brought
 
    ## Data Sourcing
 
-   Data was gotten from Kaggle. [Click here](https://www.kaggle.com/datasets/shilongzhuang/things-we-do-for-family-some-bald-guy) 
+   Data was from "Harry Potter Movies Microsoft Excel"
 
    ## Data Transformation
  1. I imported my dataset to Power Query by using the format connector in PowerBI.
@@ -42,9 +42,10 @@ My journey into the world of parental leave policies, driven by data and brought
 
  ## Analysis and Insights
   
-![Report](Maven Parental Leave Reports)
+![Report](Harry Potter Movie Series Analysis)
 
-![u0Wt27N - Imgur](https://github.com/Hassanat36/Maven_powerbi_project/assets/138366531/af3ca580-893f-425f-be41-7cc000a6530a)
+![harryporter project with background_page-0001](https://github.com/Hassanat36/Harry-potter-project/assets/138366531/0bbe544d-18d8-419e-b1f5-62f93d8342f7)
+
 
 ### Key Insights
 1. Count of Movie Dialogue: The count of movie dialogue is 7444, indicating the total number of dialogues across the entire Harry Potter movie series.
@@ -74,6 +75,27 @@ Despite the insights gained from the analysis, it's important to acknowledge cer
 - Data Scope: The analysis is limited to the available dataset. Additional data sources, including behind-the-scenes information, interviews, or fan discussions, could provide a more comprehensive understanding.
 - Contextual Nuances: The analysis focuses on quantitative aspects, and while it sheds light on patterns, it might not capture the contextual nuances of certain scenes or character motivations.
 
+## MIT License
+
+Copyright (c) 2021 Louis Chauvet
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
   
 
