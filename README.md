@@ -1,5 +1,8 @@
 # Harry Potter Movie Series Analysis
 
+![images](https://github.com/Hassanat36/Harry-potter-project/assets/138366531/03870e92-4861-459c-af09-1196194bdd11)
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Skills Demonstrated](#skills-demonstrated)
@@ -27,7 +30,7 @@ Welcome to the Harry Potter Movie Series Analysis! This project delves into the 
 
    ## Data Sourcing
 
-   Data was from "Harry Potter Movies Microsoft Excel"
+   Data was from kagle [click here](https://www.kaggle.com/datasets/maricinnamon/harry-potter-movies-dataset)
 
    ## Data Transformation
  1. I imported my dataset to Power Query by using the format connector in PowerBI.
