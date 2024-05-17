@@ -1,6 +1,7 @@
 # Harry Potter Movie Series Analysis
 
-![images](https://github.com/Hassanat36/Harry-potter-project/assets/138366531/03870e92-4861-459c-af09-1196194bdd11)
+![harry potter faces](https://github.com/Hassanat36/Harry-potter-project/assets/138366531/4a3bbe44-a07e-4a14-99fe-e83de22ba7b9)
+
 
 
 ## Table of Contents
